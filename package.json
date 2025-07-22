@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafacelilcamci/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Celil Çamcı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafacelilcamci/PCAT/issues"
+  },
+  "homepage": "https://github.com/mustafacelilcamci/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
